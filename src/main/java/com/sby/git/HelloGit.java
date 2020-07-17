@@ -8,6 +8,6 @@ public class HelloGit {
 		System.out.println("合并前");
 		System.out.println("创建分支");
 		System.out.println("主线添加");
-
+		System.out.println("第二次提交之前更新");
 	}
 }
